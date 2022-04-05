@@ -1,0 +1,7 @@
+.header__link{
+    font-size: 24px;
+}
+
+.header__link:hover{
+    text-decoration: underline;
+}
