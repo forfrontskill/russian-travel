@@ -1,0 +1,5 @@
+.lead__image {
+    /*TODO: Сделать масштабирование*/
+    display: block;
+    width: 100%;
+}
