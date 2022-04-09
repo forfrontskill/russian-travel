@@ -1,7 +1,22 @@
 .lead__title {
+    display: block;
     width: 720px;
-    padding: 48px 24px 0;
     text-align: center;
     font-size: 96px;
     margin: 0 auto;
+    padding: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .lead__title {
+        width: 300px;
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .lead__title {
+        width: 300px;
+        font-size: 40px;
+    }
 }

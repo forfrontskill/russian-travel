@@ -1,7 +1,20 @@
-.header__link{
+.header__link {
     font-size: 24px;
+    padding-bottom: 8px;
 }
 
-.header__link:hover{
-    text-decoration: underline;
+.header__link:hover {
+    opacity: 80%;
+}
+
+@media screen and (max-width: 768px) {
+    .header__link {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .header__link {
+        font-size: 18px;
+    }
 }
