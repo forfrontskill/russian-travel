@@ -7,20 +7,16 @@
     z-index: 2;
 }
 
-@media screen and (max-width: 1280px) {
-    .cover__title{
-
-    }
-}
-
 @media screen and (max-width: 1024px) {
     .cover__title{
-
+        font-size: 72px;
+        line-height: 76px;
     }
 }
 @media screen and (max-width: 768px) {
     .cover__title{
         font-size: 32px;
+        line-height: 35px;
         width: 280px;
     }
 }
@@ -28,6 +24,7 @@
 @media screen and (max-width: 320px) {
     .cover__title{
         font-size: 32px;
+        line-height: 35px;
         width: 280px;
     }
 }
