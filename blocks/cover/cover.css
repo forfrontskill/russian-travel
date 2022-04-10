@@ -1,0 +1,15 @@
+.cover {
+    position: relative;
+    background: url("../../images/cover-trains.jpg") center center/cover;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1184px;
+    margin: 0 auto;
+    padding: 245px 48px;
+}
+
+@media screen and (max-width: 768px) {
+    .cover {
+        padding: 33px;
+    }
+}
