@@ -5,24 +5,7 @@
     padding: 28px 48px 0;
 }
 
-@media screen and (max-width: 1280px) {
-    .header{
-        padding: 28px 48px 0;
-    }
-}
-
-@media screen and (max-width: 1024px) {
-    .header{
-        padding: 28px 24px 0;
-    }
-}
 @media screen and (max-width: 768px) {
-    .header{
-        padding: 16px 16px 0;
-    }
-}
-
-@media screen and (max-width: 320px) {
     .header{
         padding: 16px 16px 0;
     }

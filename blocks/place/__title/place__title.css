@@ -33,12 +33,3 @@
         grid-column: 1;
     }
 }
-
-@media screen and (max-width: 320px) {
-    .place__title {
-        font-size: 32px;
-        line-height: 35px;
-        grid-row: 1;
-        grid-column: 1;
-    }
-}

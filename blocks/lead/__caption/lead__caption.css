@@ -8,24 +8,7 @@
 }
 
 
-@media screen and (max-width: 1280px) {
-    .lead__caption {
-        padding-top: 8px;
-    }
-}
-
-@media screen and (max-width: 1024px) {
-    .lead__caption {
-        padding-top: 8px;
-    }
-}
 @media screen and (max-width: 768px) {
-    .lead__caption {
-        padding: 8px 0 0 16px;
-    }
-}
-
-@media screen and (max-width: 320px) {
     .lead__caption {
         padding: 8px 0 0 16px;
     }
