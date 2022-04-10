@@ -7,5 +7,6 @@
     .place__paragraph {
         grid-column: 1;
         grid-row: 4;
+        padding-left: 16px;
     }
 }
