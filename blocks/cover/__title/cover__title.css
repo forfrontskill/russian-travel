@@ -3,6 +3,7 @@
     width: 560px;
     margin: 0 auto;
     font-size: 72px;
+    font-weight: bold;
     text-align: center;
     z-index: 2;
 }
