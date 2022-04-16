@@ -5,7 +5,8 @@
     font-size: 72px;
     font-weight: bold;
     text-align: center;
-    z-index: 2;
+    opacity: revert;
+    z-index: 3;
 }
 
 @media screen and (max-width: 1024px) {
@@ -21,3 +22,7 @@
         width: 280px;
     }
 }
+
+/*.cover__title:hover{*/
+/*    opacity: 80%;*/
+/*}*/
