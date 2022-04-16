@@ -7,10 +7,21 @@
     padding: 370px 48px;
     margin: 0 48px;
 }
+@media screen and (max-width: 1280px) {
+    .cover {
+        padding: 320px 0;
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .cover {
+        padding: 240px 0;
+    }
+}
 
 @media screen and (max-width: 768px) {
     .cover {
-        padding: 33px;
-        margin: 0;
+        padding: 100px 0;
     }
 }
