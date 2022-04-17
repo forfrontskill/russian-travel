@@ -4,15 +4,14 @@
     font-weight: normal;
     line-height: 163%;
     padding-bottom: 26px;
+    text-align: left;
 }
 
 .place__text:last-child {
     padding-bottom: 0;
 }
 
-
-
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
     .place__text {
         font-size: 16px;
     }
