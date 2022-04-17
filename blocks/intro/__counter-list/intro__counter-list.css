@@ -1,7 +1,7 @@
-.counter-list {
+.intro__counter-list {
     max-width: 690px;
     list-style-type: none;
-    padding: 0;
+    padding: 33px 0 0;
     margin: 0;
     font-size: 12px;
     font-weight: 700;

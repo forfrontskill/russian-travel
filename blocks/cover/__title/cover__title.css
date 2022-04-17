@@ -1,12 +1,10 @@
 .cover__title{
-    position: relative;
     width: 560px;
     margin: 0 auto;
     font-size: 72px;
-    font-weight: bold;
+    font-weight: 900;
     text-align: center;
     opacity: revert;
-    z-index: 3;
 }
 
 @media screen and (max-width: 1024px) {
@@ -22,7 +20,3 @@
         width: 280px;
     }
 }
-
-/*.cover__title:hover{*/
-/*    opacity: 80%;*/
-/*}*/

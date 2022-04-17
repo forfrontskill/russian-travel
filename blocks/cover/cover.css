@@ -1,27 +1,10 @@
 .cover {
-    position: relative;
-    background: url("../../images/cover-trains.jpg") center center/cover;
-    box-sizing: border-box;
-    width: 100%;
-    max-width: 1184px;
-    padding: 370px 48px;
+    max-width: 100%;
     margin: 0 48px;
 }
-@media screen and (max-width: 1280px) {
+
+@media screen and (max-width: 1279px) {
     .cover {
-        padding: 320px 0;
         margin: 0;
-    }
-}
-
-@media screen and (max-width: 1024px) {
-    .cover {
-        padding: 240px 0;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .cover {
-        padding: 100px 0;
     }
 }
