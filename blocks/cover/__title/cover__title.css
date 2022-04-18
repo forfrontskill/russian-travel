@@ -3,17 +3,12 @@
     margin: 0 auto;
     font-size: 72px;
     font-weight: 900;
+    line-height: 76px;
     text-align: center;
     opacity: revert;
 }
 
-@media screen and (max-width: 1024px) {
-    .cover__title{
-        font-size: 72px;
-        line-height: 76px;
-    }
-}
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .cover__title{
         font-size: 32px;
         line-height: 35px;
